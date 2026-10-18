@@ -113,7 +113,13 @@ jobs:
       # 将 base64 编码的密钥文件解码为 .jks 文件
       - name: Decode keystore
         run: |
-          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > android/app/release.jks
+          if [ -n "${KEYSTORE_BASE64}" ]; then
+            echo "$KEYSTORE_BASE64" | base64 -d > android/app/release.jks
+          else
+            echo "No release keystore configured; Gradle will use the debug signing key."
+          fi
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
 
       # 第六步：编译 APK
       # 使用 release 模式编译（包含代码混淆和资源压缩）
