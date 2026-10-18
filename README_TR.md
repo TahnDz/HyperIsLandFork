@@ -15,7 +15,7 @@
 [![Build](https://img.shields.io/badge/Build-Compose-7F52FF?style=flat-square&logo=kotlin)](https://developer.android.com/compose)
 
 
-**[English](README_EN.md)** | **[简体中文](README.md)** | **[Tiếng Việt](README_VI.md)** | **[日本語](README_JA.md)** | **Türkçe**
+**[English](README_EN.md)** | **[简体中文](README_ZH.md)** | **[Tiếng Việt](README_VI.md)** | **[日本語](README_JA.md)** | **Türkçe**
 
 </div>
 

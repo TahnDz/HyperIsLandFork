@@ -13,7 +13,7 @@
 [![HyperOS](https://img.shields.io/badge/ROM-HyperOS3%2F4-orange?style=flat-square)](https://hyperos.mi.com)
 [![Build](https://img.shields.io/badge/Build-Compose-7F52FF?style=flat-square&logo=kotlin)](https://developer.android.com/compose)
 
-**[English](README_EN.md)** | **[简体中文](README.md)** | **[Tiếng Việt](README_VI.md)** | **日本語** | **[Türkçe](README_TR.md)**
+**[English](README_EN.md)** | **[简体中文](README_ZH.md)** | **[Tiếng Việt](README_VI.md)** | **日本語** | **[Türkçe](README_TR.md)**
 
 </div>
 

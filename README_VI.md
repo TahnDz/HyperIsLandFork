@@ -4,7 +4,7 @@
 
 # HyperIsland
 
-**Mô-đun nâng cao thông báo Siêu đảo cho HyperOS 3/4**
+**Mô-đun nâng cao thông báo Super Island cho HyperOS 3/4**
 
 [![GitHub Release](https://img.shields.io/github/v/release/1812z/HyperIsland?style=flat-square&logo=github&color=black)](https://github.com/1812z/HyperIsland/releases)
 ![Downloads](https://img.shields.io/github/downloads/1812z/HyperIsland/total?style=flat-square)
@@ -14,7 +14,7 @@
 [![HyperOS](https://img.shields.io/badge/ROM-HyperOS3%2F4-orange?style=flat-square)](https://hyperos.mi.com)
 [![Build](https://img.shields.io/badge/Build-Compose-7F52FF?style=flat-square&logo=kotlin)](https://developer.android.com/compose)
 
-**[English](README_EN.md)** | **[简体中文](README.md)** | **Tiếng Việt** | **[日本語](README_JA.md)** | **[Türkçe](README_TR.md)**
+**[English](README_EN.md)** | **[简体中文](README_ZH.md)** | **Tiếng Việt** | **[日本語](README_JA.md)** | **[Türkçe](README_TR.md)**
 
 </div>
 
@@ -26,14 +26,14 @@
 <tr>
 <td width="50%">
 
-### 📥 Mở rộng Trình quản lý tải xuống
-Chặn thông báo của Trình quản lý tải xuống HyperOS và hiển thị tên tệp cùng tiến trình theo phong cách Siêu đảo, hỗ trợ **tạm dừng, tiếp tục và hủy**.
+### 📥 Mở rộng Download Manager
+Chặn thông báo của HyperOS Download Manager và hiển thị tên tệp cùng tiến trình theo phong cách Super Island, hỗ trợ **tạm dừng, tiếp tục và hủy**.
 
 </td>
 <td width="50%">
 
-### 🏝️ Siêu đảo và thông báo tiêu điểm
-Chặn thông báo Android tiêu chuẩn từ mọi ứng dụng, sau đó hiển thị theo kiểu Siêu đảo và thông báo tiêu điểm, đồng thời giữ lại các nút thao tác gốc.
+### 🏝️ Super Island và Focus Notification
+Chặn thông báo Android tiêu chuẩn từ mọi ứng dụng, sau đó hiển thị theo kiểu Super Island và Focus Notification, đồng thời giữ lại các nút thao tác gốc.
 
 </td>
 </tr>
@@ -46,8 +46,8 @@ Hỗ trợ bốn chất liệu: làm mờ Gaussian, kính nổi bật, kính m�
 </td>
 <td width="50%">
 
-### 🏝️ Siêu đảo thường trực
-Hiển thị một Siêu đảo thường trực tương tự Dynamic Island của Apple, hỗ trợ tự động ẩn và tránh che nội dung.
+### 🏝️ Super Island thường trực
+Hiển thị một Super Island thường trực tương tự Dynamic Island của Apple, hỗ trợ tự động ẩn và tránh che nội dung.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Hỗ trợ các mô hình lớn tương thích giao thức OpenAI để rút g�
 <td width="50%">
 
 ### 🍞 Chặn Toast
-Chặn các thông báo Toast gây phiền và chuyển chúng thành hiển thị Siêu đảo để có trải nghiệm thống nhất hơn.
+Chặn các thông báo Toast gây phiền và chuyển chúng thành hiển thị Super Island để có trải nghiệm thống nhất hơn.
 
 </td>
 </tr>
